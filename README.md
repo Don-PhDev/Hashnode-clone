@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </p>
 
-
 <p></p>
 
 <img align="center" src="https://user-images.githubusercontent.com/62628408/142680359-0a5e53f1-820e-41dd-9a2c-ea49ddad8433.png" alt="hashnode-clone-by-victor-eke">
