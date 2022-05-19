@@ -1,22 +1,22 @@
 {
-  "name": "hashnode-clone",
+  "name": "hashnode_clone",
   "version": "1.0.0",
   "description": "Hashnode clone",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w scss/ -o css/ --recursive"
+    "sass": "node-sass -w scss/ -o css/ -r"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Evavic44/hashnode-clone.git"
+    "url": "git+https://github.com/Don-PhDev/Hashnode-clone.git"
   },
-  "author": "",
+  "author": "Don Forrest Usbal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Evavic44/hashnode-clone/issues"
+    "url": "https://github.com/Don-PhDev/Hashnode-clone/issues"
   },
-  "homepage": "https://github.com/Evavic44/hashnode-clone#readme",
-  "devDependencies": {
-    "node-sass": "^6.0.1"
+  "homepage": "https://github.com/Don-PhDev/Hashnode-clone#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
   }
 }
