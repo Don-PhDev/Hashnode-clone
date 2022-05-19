@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
 @import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+
 .align-center {
   text-align: center; }
 
@@ -756,11 +757,16 @@ article {
 
 @media (max-width: 400px) {
   .features .card-container {
-    grid-template-columns: repeat(2, 1fr); }
-    .features .card-container .card img {
-      width: 40px;
-      height: 40px; }
-    .features .card-container .card h3 {
-      font-size: 1rem; }
-    .features .card-container .card p {
-      display: none; } }
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .features .card-container .card img {
+    width: 40px;
+    height: 40px;
+  }
+  .features .card-container .card h3 {
+    font-size: 1rem;
+  }
+  .features .card-container .card p {
+    display: none;
+  }
+}
